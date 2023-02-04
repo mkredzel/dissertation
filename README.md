@@ -1,5 +1,7 @@
 # Dissertation - 'eConsultant'
 
+[![Compile Latex and Release PDF](https://github.com/mkredzel/dissertation/actions/workflows/main.yml/badge.svg)](https://github.com/mkredzel/dissertation/actions/workflows/main.yml)
+
 Dissertation project explaining how (and why) I approached designing and developing a speech to text analysis application. EConsultant is a web application that explores voice recognition, sentiment analysis and data visualization in detail to find the most optimal way of supporting consultancy meetings.
 
 ### Implementation
