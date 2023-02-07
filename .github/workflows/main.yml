@@ -35,6 +35,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./eConsultant.pdf
-          asset_name: eConsultant.pdf
+          asset_path: ./main.pdf
+          asset_name: main.pdf
           asset_content_type: pdf
